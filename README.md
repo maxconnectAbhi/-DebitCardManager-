@@ -1,7 +1,7 @@
 # Debit Card Manager #
 
 ### Repository ###
-[Aldira](https://bitbucket.org/aldiracita/mina/src/master/)
+[Debit Card Manager](https://github.com/maxconnectAbhi/-DebitCardManager-.git)
 
 ## Prerequisites
 * node
